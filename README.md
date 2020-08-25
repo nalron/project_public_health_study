@@ -2,8 +2,6 @@
 ### Projet du parcours Data Analyst OpenClassrooms en partenariat avec l’ENSAE-ENSAI.
 Projet d'étude de santé publique sur le thème de la sous-nutrition dans le monde.
 
-![Lorenz](p3_photo/logo_fao.png)
-
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python sur support Jupyter Notebook. Identification des premières tendances, estimations de la population mondiale qui pourrait être nourrie à partir de la disponibilité alimentaire végétale, animale… Estimation de la population mondiale considérée comme étant en sous-nutrition. Ainsi que d'autres ratios. Transformation des données en un format propice à l’utilisation souhaitée par les utilisateurs finaux, qui utiliserons la base via le langage SQL. Une fois les données correctement formatées, elles seront intégrées dans une base de données.
 
@@ -17,7 +15,6 @@ Téléchargement des données de la FAO, estimation de la population mondiale, c
  - Utiliser les librairies spécialisées pour la Data Science
  - Récupérer des données à partir d'une source identifiée
  - Effectuer des requêtes complexes en SQL
- - 
 
 
 ## Prérequis techniques
