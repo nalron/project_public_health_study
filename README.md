@@ -44,9 +44,7 @@ jupyter notebook
 
 ```
 pip install pandas
-pip install matplotlib
 pip install numpy
-pip install scipy
 ```
 
 ## Auteur
